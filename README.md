@@ -9,5 +9,9 @@ Displayed a sensor value of you choice.
     - Sensor unit ->            repleace UNIT
     - Widget Title ->           repleace MY TITLE
 You can also adjust the widget color, text size and text color.
+
+![Alt text](/images/CPU_temperature.png?raw=true "Sensor Widget")
+
+
  
 
