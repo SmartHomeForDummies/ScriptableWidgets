@@ -1,3 +1,4 @@
+let widget = await createWidget()
 let detailColor = Color.white();
 if (!config.runsInWidget) {
     await widget.presentSmall();
