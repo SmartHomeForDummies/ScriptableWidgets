@@ -1,4 +1,4 @@
-# Home Assiistant Sensor Widget
+# Home Assistant Sensor Widget
 Simple Scriptable Home Assistant Sensor Widget.
 Displayed a sensor value of you choice.
 
