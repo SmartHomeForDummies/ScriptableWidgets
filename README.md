@@ -12,6 +12,9 @@ You can also adjust the widget color, text size and text color.
 
 ![Alt text](/images/CPU_temperature.png?raw=true "Sensor Widget")
 
+[![Donate with PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png)
+](https://community.smarthome-for-dummies.de/donate)
+
 
  
 
